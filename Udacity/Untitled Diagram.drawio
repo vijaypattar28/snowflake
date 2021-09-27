@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-27T18:49:20.436Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="BGbZMeF0botdx6pKZ-lD" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-27T18:52:15.486Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="5pI-3FMm2OuxecFNS184" version="14.6.13" type="github">
   <diagram id="gy8ISvJgCRDPJz9u742e" name="Page-1">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
@@ -72,6 +72,9 @@
         </mxCell>
         <mxCell id="W2_lLI5AKCCtcNdg7-G7-25" value="&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;b&gt;Analysis &amp;amp; reporting&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1030" y="260" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="W2_lLI5AKCCtcNdg7-G7-28" value="&lt;font style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;Data Architecture Diagram&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="40" width="510" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
